@@ -16,6 +16,9 @@ Many people struggle to decide what to eat. This app offers quick meal suggestio
 - **Minimalist UI**: A sleek dark theme with high contrast text for readability.  
 - **Intuitive Input**: Users type in a time of day and instantly get meal recommendations.  
 - **Dynamic Content**: Randomized meal ideas ensure variety every time! 🥞
+  
+## 📸 Screenshots
+![App Screenshot](https://images-platform.99static.com/GWgukn4RzmiunWoqewjwgWPwz3c=/228x145:1735x1652/500x500/top/smart/99designs-contests-attachments/97/97075/attachment_97075698)
 
 ## 🚀 How to Clone & Run
 Clone this repository with the following command:
@@ -29,9 +32,6 @@ Then, open the project in **Android Studio**, sync dependencies, and run it on a
 
 ## 🎥 Video Demo
 ▶️ **YouTube Video**: [Placeholder - Add link here]
-
-## 📸 Screenshots
-![App Screenshot](path/to/screenshot.png) *(Replace with actual image path)*
 
 ## 📚 References
 ### 🧠 AI Referencing (Harvard Anglia Style)
