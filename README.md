@@ -18,7 +18,7 @@ Many people struggle to decide what to eat. This app offers quick meal suggestio
 - **Dynamic Content**: Randomized meal ideas ensure variety every time! 🥞
   
 ## 📸 Screenshots
-![App Screenshot](https://images-platform.99static.com/GWgukn4RzmiunWoqewjwgWPwz3c=/228x145:1735x1652/500x500/top/smart/99designs-contests-attachments/97/97075/attachment_97075698)
+![App Screenshot](https://i.ibb.co/RT7N37Fj/whattoeat-screenshots.png)
 
 ## 🚀 How to Clone & Run
 Clone this repository with the following command:
