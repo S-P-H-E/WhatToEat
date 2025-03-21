@@ -315,7 +315,7 @@ fun ScaffoldScreenB(navController: NavController, time: String) {
                         },
                         colors = ButtonDefaults.buttonColors(containerColor = Color.Black),
 
-                    ) {
+                        ) {
                         Icon(
                             imageVector = Icons.Default.ArrowBackIosNew,
                             contentDescription = "Back",
@@ -335,14 +335,14 @@ fun ScaffoldScreenB(navController: NavController, time: String) {
                 .padding(innerPadding),
             horizontalAlignment = Alignment.CenterHorizontally
         ) { Image (
-                painter = painterResource(id = foodImage),
-                contentDescription = "Eggs image",
-                contentScale = ContentScale.Crop,
-                modifier = Modifier
-                    .width(350.dp)
-                    .height(600.dp)
-                    .clip(RoundedCornerShape(20.dp))
-            )
+            painter = painterResource(id = foodImage),
+            contentDescription = "Eggs image",
+            contentScale = ContentScale.Crop,
+            modifier = Modifier
+                .width(350.dp)
+                .height(600.dp)
+                .clip(RoundedCornerShape(20.dp))
+        )
             Column (
                 modifier = Modifier
                     .fillMaxWidth()
@@ -427,7 +427,7 @@ fun MainAppPreview() {
         val navController = rememberNavController()
 
         if (screen == "Screena") {
-            ScreenA(navController  )
+            ScreenA(navController)
         } else {
             ScreenB(navController, "Afternoon")
         }

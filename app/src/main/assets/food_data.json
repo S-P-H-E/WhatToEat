@@ -1,0 +1,54 @@
+{
+  "Morning": [
+    {
+      "name": "Eggs",
+      "description": "A nutritious and versatile staple, packed with protein and healthy fats.",
+      "image": "eggs",
+      "prepTime": "10 min",
+      "rating": "4.8"
+    },
+    {
+      "name": "Oatmeal",
+      "description": "A warm and hearty breakfast option made from oats.",
+      "image": "oatmeal",
+      "prepTime": "5 min",
+      "rating": "4.5"
+    }
+  ],
+  "Mid-Morning Snack": [
+    {
+      "name": "Banana",
+      "description": "A naturally sweet and energy-boosting fruit rich in potassium.",
+      "image": "banana",
+      "prepTime": "1 min",
+      "rating": "4.5"
+    }
+  ],
+  "Afternoon": [
+    {
+      "name": "Sandwich",
+      "description": "A quick and filling meal with various ingredients between slices of bread.",
+      "image": "sandwich",
+      "prepTime": "10 min",
+      "rating": "4.7"
+    }
+  ],
+  "Dinner": [
+    {
+      "name": "Pasta",
+      "description": "A rich and comforting dish with various sauces.",
+      "image": "pasta",
+      "prepTime": "25 min",
+      "rating": "4.8"
+    }
+  ],
+  "Post-Dinner": [
+    {
+      "name": "Ice Cream",
+      "description": "A creamy and delightful frozen treat available in various flavors.",
+      "image": "ice_cream",
+      "prepTime": "5 min",
+      "rating": "4.8"
+    }
+  ]
+}
