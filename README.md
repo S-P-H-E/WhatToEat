@@ -35,7 +35,9 @@ Then, open the project in **Android Studio**, sync dependencies, and run it on a
 
 ## 📚 References
 ### 🧠 AI Referencing (Harvard Anglia Style)
-_(To be added later)_
+Some sections of code were adapted from publicly available documentation and AI-generated suggestions (OpenAI, 2025), then modified to suit project needs.
+- OpenAI. (2025). ChatGPT responses for coding assistance [Large language model]. https://chat.openai.com/
 
 ### 🖼️ Image References
-_(To be added later)_
+All images used in this project were sourced from [Unsplash](https://unsplash.com/) under their [free-to-use license](https://unsplash.com/license) (Unsplash, n.d.).
+- Unsplash. (n.d.). Free high-resolution images. https://unsplash.com/
