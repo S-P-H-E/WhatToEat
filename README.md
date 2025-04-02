@@ -31,7 +31,7 @@ Then, open the project in **Android Studio**, sync dependencies, and run it on a
 🔗 **GitHub Repo**: [What To Eat](https://github.com/S-P-H-E/WhatToEat.git)
 
 ## 🎥 Video Demo
-▶️ **YouTube Video**: [Placeholder - Add link here]
+▶️ **YouTube Video**: https://youtu.be/ddCoX7ZXW6Q
 
 ## 📚 References
 ### 🧠 AI Referencing (Harvard Anglia Style)
